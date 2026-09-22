@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=choininda-lgtm&color=blueviolet&style=flat-square" alt="profile views" />
-  <a href="[https://linkedin.com/in/username-linkedin-kamu](https://www.linkedin.com/in/aninda-isti-choiria-24b883373?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank">
+  <a href="https://www.linkedin.com/in/aninda-isti-choiria-24b883373" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </p>
