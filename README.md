@@ -10,10 +10,13 @@
 
 ---
 
-### 💻 About Me
-- 🔭 I’m currently exploring **Full-Stack Web Development, Data Engineering, & Computer Vision**.
-- 🚀 Passionate about building impactful digital solutions ranging from AI-powered web education platforms to enterprise data migration.
-- ⚡ Tech Stack highlights: **React.js, Python, Flask, PostgreSQL, Odoo ERP, PHP, & MediaPipe/OpenCV**.
+## 💻 About Me
+
+- 🎓 Informatics graduate from Universitas Gunadarma.
+- 🌐 Building web applications using React, TypeScript, Python, and Flask.
+- 🤖 Exploring Computer Vision with MediaPipe and OpenCV.
+- 🛠️ Developed academic and portfolio projects in web development, data migration, Android applications, and UI/UX design.
+- 🚀 Seeking entry-level IT opportunities to contribute to real-world projects and grow as a software developer.
 
 ---
 
