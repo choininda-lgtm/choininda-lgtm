@@ -10,9 +10,15 @@
 
 ---
 
+# Hi there 👋, I'm Aninda Isti Choiria
+
+### 🎓 Informatics Graduate | Aspiring Software Developer
+
+[![Profile Views](https://komarev.com/ghpvc/?username=choininda-lgtm&color=blueviolet)](https://github.com/choininda-lgtm)
+
 ## 💻 About Me
 
-- 🎓 Informatics graduate from Universitas Gunadarma.
+- 🎓 Informatics graduate from Universitas Gunadarma, graduated on August 28, 2026.
 - 🌐 Building web applications using React, TypeScript, Python, and Flask.
 - 🤖 Exploring Computer Vision with MediaPipe and OpenCV.
 - 🛠️ Developed academic and portfolio projects in web development, data migration, Android applications, and UI/UX design.
